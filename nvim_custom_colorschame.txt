@@ -1,0 +1,5 @@
+# colorscheme personalizado.
+
+copiar el archivo miesquema.vim en:
+
+~/.config/nvim/colors/miesquema.vim
